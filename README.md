@@ -12,13 +12,16 @@ https://discord.gg/6TwzdnW6ze
 
 - 리더 1: [Bumsu-Yi](https://github.com/Bumsu-Yi)
 - 리더 2: [leokim0922](https://github.com/leokim0922)
-- 맴버 1: (추가 바람)
-- 맴버 2: (추가 바람)
-- 맴버 3: (추가 바람)
-- 맴버 4: (추가 바람)
-- 맴버 5: (추가 바람)
-- 맴버 6: (추가 바람)
-
+- 맴버 3: [Invidam](https://github.com/Invidam)
+- 맴버 4: [dev-jonghoonpark](https://github.com/dev-jonghoonpark)
+- 맴버 5: [leezer94](https://github.com/leezer94)
+- 맴버 6: [JinhyukKo](https://github.com/JinhyukKo)
+- 맴버 7: [claeo001](https://github.com/claeo001)
+- 맴버 8: [gumbee89](https://github.com/gumbee89)
+- 맴버 9: (추가 바람)
+- 맴버 10: (추가 바람)
+- 맴버 11: (추가 바람)
+- 맴버 12: (추가 바람)
 ## 답안 코드 작성법
 
 `main` 브랜치에서 최신 코드를 내려 받은 후에, `<주>-<GitHub 유저네임>` 형태로 브랜치를 땁니다.
