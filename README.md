@@ -20,13 +20,15 @@ https://discord.gg/6TwzdnW6ze
 - 맴버 6: [JinhyukKo](https://github.com/JinhyukKo)
 - 맴버 7: [claeo001](https://github.com/claeo001)
 - 맴버 8: [gumbee89](https://github.com/gumbee89)
-- 맴버 9: (추가 바람)
-- 맴버 10: (추가 바람)
-- 맴버 11: (추가 바람)
+- 맴버 9: [bky373](https://github.com/bky373)
+- 맴버 10: [BanseokSuh](https://github.com/BanseokSuh)
+- 맴버 11: [kiwi-choe](https://github.com/kiwi-choe)
 - 맴버 12: (추가 바람)
+- 맴버 13: (추가 바람)
+- 맴버 14: (추가 바람)
 
 
-## Leetcode Bline 75 풀이 스터디
+## Leetcode Bline 75 풀이 스터디 방식
 
 1. [neetcode.io/practice](https://neetcode.io/practice)에서 나열된 "easy" 문제부터 풀기 시작합니다.
 2. 문제 폴더들은 관리자가 매주 다섯 개씩 생성합니다
