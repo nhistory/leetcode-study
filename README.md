@@ -23,9 +23,9 @@ https://discord.gg/6TwzdnW6ze
 - 맴버 9: [bky373](https://github.com/bky373)
 - 맴버 10: [BanseokSuh](https://github.com/BanseokSuh)
 - 맴버 11: [kiwi-choe](https://github.com/kiwi-choe)
-- 맴버 12: (추가 바람)
-- 맴버 13: (추가 바람)
-- 맴버 14: (추가 바람)
+- 멤버 12: [mand2](https://github.com/mand2)
+- 멤버 13: [JoyJaewon](https://github.com/JoyJaewon)
+
 
 
 ## Leetcode Bline 75 풀이 스터디 방식
@@ -37,7 +37,7 @@ https://discord.gg/6TwzdnW6ze
 문제에 대한 Pull Request (PR)를 제출할 때 다음 지침을 준수해 주세요:
 
 - PR에 자신의 해결책을 포함합니다.
-- PR 제출시 본인 답변에 Time complexity/Space complexity를 기재합니다.
+- PR 제출시 소스 코드 안에 Time complexity/Space complexity를 주석으로 표시합니다(선택).
 - 저장소 관리자가 제공하는 특정 PR 템플릿 또는 가이드라인을 따릅니다.
 
 
