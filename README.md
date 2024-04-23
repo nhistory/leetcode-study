@@ -25,8 +25,9 @@ https://discord.gg/6TwzdnW6ze
 - 맴버 11: [kiwi-choe](https://github.com/kiwi-choe)
 - 멤버 12: [mand2](https://github.com/mand2)
 - 멤버 13: [JoyJaewon](https://github.com/JoyJaewon)
-
-
+- 멤버 14: [wclee2265](https://github.com/wclee2265)
+- 멤버 15: [sounmind](https://github.com/sounmind)
+- 멤버 16: [nhistory](https://github.com/nhistory)
 
 ## Leetcode Bline 75 풀이 스터디 방식
 
