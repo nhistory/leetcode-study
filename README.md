@@ -8,6 +8,8 @@
 
 https://discord.gg/6TwzdnW6ze
 
+
+
 ## 스터디 맴버
 
 - 리더 1: [Bumsu-Yi](https://github.com/Bumsu-Yi)
@@ -22,6 +24,21 @@ https://discord.gg/6TwzdnW6ze
 - 맴버 10: (추가 바람)
 - 맴버 11: (추가 바람)
 - 맴버 12: (추가 바람)
+
+
+## Leetcode Bline 75 풀이 스터디
+
+1. [neetcode.io/practice](https://neetcode.io/practice)에서 나열된 "easy" 문제부터 풀기 시작합니다.
+
+
+## 제출 가이드라인
+문제에 대한 Pull Request (PR)를 제출할 때 다음 지침을 준수해 주세요:
+
+- PR에 자신의 해결책을 포함합니다.
+- PR 제출시 본인 답변에 Time complexity/Space complexity를 기재합니다.
+- 저장소 관리자가 제공하는 특정 PR 템플릿 또는 가이드라인을 따릅니다.
+
+
 ## 답안 코드 작성법
 
 `main` 브랜치에서 최신 코드를 내려 받은 후에, `<주>-<GitHub 유저네임>` 형태로 브랜치를 땁니다.
