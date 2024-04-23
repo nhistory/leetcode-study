@@ -29,7 +29,7 @@ https://discord.gg/6TwzdnW6ze
 ## Leetcode Bline 75 풀이 스터디
 
 1. [neetcode.io/practice](https://neetcode.io/practice)에서 나열된 "easy" 문제부터 풀기 시작합니다.
-
+2. 문제 폴더들은 관리자가 매주 다섯 개씩 생성합니다
 
 ## 제출 가이드라인
 문제에 대한 Pull Request (PR)를 제출할 때 다음 지침을 준수해 주세요:
